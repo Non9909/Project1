@@ -1,4 +1,5 @@
-public static void main(){
+class Main{
+public static void main(string[]){
 
 }
-
+}
